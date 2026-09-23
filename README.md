@@ -46,7 +46,7 @@ Pharmaceutical-Sales-Analytics
 │   └── PHARMACUTICAL PORTFOLIO.pbix
 │
 ├── Data
-│   └── data for portfolio power bi.csv
+│   └── Pharmacutical sales analysis
 │
 └── Screenshots
     └── dashboard.png
